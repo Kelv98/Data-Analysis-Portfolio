@@ -14,12 +14,12 @@ This project was done in a call centre analyzing how 5 call representatives rece
 # 📊Datasets
 Source ;Kaggle
 # 📈Key Performance Indicators
-	Total number of calls.
-	Total amount of money spent.
-	Total time spent.
-	Male VS Female callers.
-	Average rating.
-	Total 5 stars rating received.
+-	Total number of calls.
+-	Total amount of money spent.
+-	Total time spent.
+-	Male VS Female callers.
+-	Average rating.
+-	Total 5 stars rating received.
 # 🌟Insights
 The number of 5 star rating  increased  was dependent on time spent  in listening to customers.
 
