@@ -13,4 +13,5 @@ I specialize in **Excel,Power BI,SQL,R Language and Python** to analyze,visualiz
 Exploratory Data Analysis,Data Cleaning,Data Normalization,Data Governance,Data Quality and Data Integrity
 # ⚡Contact
 **EMAIL** kelvinwarutere98@gmail.com
+
 Feel free to explore my projects and contact me to collaborate and work on data.
