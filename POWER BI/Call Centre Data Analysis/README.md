@@ -4,6 +4,7 @@
 This project was done in a call centre analyzing how 5 call representatives received calls from 1000 callers on network issues.An interactive dashboard was built to uncover annual call trends,total cost incurred,duration of time spent and satisfactory rating the customers received.The project is ideal to the network company since it can used  to adhere  customers complains thus  effective service delivery.
 
 # 🎯Objectives
+
 -Track number of calls each call representative received.
 -	Track  total cost incurred among each call representative.
 -	Identifying which weekdays were busiest.
