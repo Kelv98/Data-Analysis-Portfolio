@@ -6,6 +6,7 @@ I specialize in **Excel,Power BI,SQL,R Language and Python** to analyze,visualiz
 ## 🛠 Skills and Tools
 **Data Analysis**: 
 Excel,SQL,R,Python(seaborn,matplotlib and Pandas)
+
 **Data Visiulization**:
 Power BI,Tableau,R(ggplots)
 
@@ -13,7 +14,6 @@ Power BI,Tableau,R(ggplots)
 MySQL
 
 ---
-
 # 🎯Others
 Exploratory Data Analysis,Data Cleaning,Data Normalization,Data Governance,Data Quality and Data Integrity
 # ⚡Contact
