@@ -6,7 +6,8 @@ This project was done in a call centre analyzing how 5 call representatives rece
 # 🎯Objectives
 -Track number of calls each call representative received.
 -	Track  total cost incurred among each call representative.
--Identifying which weekdays were busiest .
+  
+-Identifying which weekdays were busiest.
 -	Identifying 5 star rating  received among the call representatives.
 -	Annual call trends.
 
