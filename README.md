@@ -15,7 +15,12 @@ MySQL
 
 ---
 # 🎯Others
-Exploratory Data Analysis,Data Cleaning,Data Normalization,Data Governance,Data Quality and Data Integrity
+- Exploratory Data Analysis
+- Data Cleaning,Data Normalization
+- Data Governance
+- Data Quality
+- Data Integrity
+  
 # ⚡Contact
 **EMAIL** kelvinwarutere98@gmail.com
 
