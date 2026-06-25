@@ -7,9 +7,12 @@ A dataset containing 98 Books that were bestsellers in 2023 was analyzed to unco
 
 **The dataset was source**
 - Kaggle website.
+- 
 **Tools used in ANALYSIS**
 The dataset was entirely analyzed through Microsoft excel. It was cleaned using power query and later loaded into a workbook where various ribbons of excel were later used.
+
 **Key Metrics**
+
 **1.Book volume by age bracket.**
   <img width="770" height="412" alt="image" src="https://github.com/user-attachments/assets/782d2926-6498-442b-8059-f074f4e29432" />
 
