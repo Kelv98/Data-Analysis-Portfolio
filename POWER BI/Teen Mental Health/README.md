@@ -1,11 +1,13 @@
 ☎**Teen Mental Health Data Analysis**
 
 📌**Overview**
+
 This project was done in a mental facility with a  motive of analyzing a dataset which would be used to  unveil teen’s mental health wellbeing .A sample of 1200 head count was collected and analyzed  based on teen’s age, social medias  platforms which were frequently used, daily hours spent on social medias platforms ,academic performance, Drug and substance addiction levels, depression levels ,sleep quality and daily hours they slept ,mental health risk score among other metrics.
 This project is ideal in daily life application as it can be used in monitoring teens mental health status and discovering the factors that can contribute to their wellbeing.
 
 🎯**Objectives**
-	Tracking socials media platforms which were frequently used.
+
+Tracking socials media platforms which were frequently used.
 	Tracking total daily number of hours spent in social media platforms.
 	Tracking academic performance based on hours spent on social media platforms.
 	Counting addiction levels based on teen’s age.
