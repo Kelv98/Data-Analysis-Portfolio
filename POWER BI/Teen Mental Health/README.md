@@ -8,21 +8,32 @@ This project is ideal in daily life application as it can be used in monitoring 
 🎯**Objectives**
 
 Tracking socials media platforms which were frequently used.
+
 	Tracking total daily number of hours spent in social media platforms.
+
 	Tracking academic performance based on hours spent on social media platforms.
+
 	Counting addiction levels based on teen’s age.
+
 	Counting mental health risk score based on age.
+
 	Tracking Teen’s social interaction levels.
+
 	Tracking Teen’s depression levels.
 
 📊**Datasets**
 Source; Kaggle
 
 📈**Key Performance Indicators**
+
 	Social Media usage based on gender.
+
 	Addiction levels across recorded ages.
+
 	Academic performance based on hours spent on social medias.
+
 	Teen’s addiction levels across various ages.
+
 	Mental health score counts across various age.
 	Depression levels count across various ages.
 
