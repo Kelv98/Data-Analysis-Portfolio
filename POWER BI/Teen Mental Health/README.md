@@ -7,35 +7,25 @@ This project is ideal in daily life application as it can be used in monitoring 
 
 🎯**Objectives**
 
-Tracking socials media platforms which were frequently used.
-
-	Tracking total daily number of hours spent in social media platforms.
-
-	Tracking academic performance based on hours spent on social media platforms.
-
-	Counting addiction levels based on teen’s age.
-
-	Counting mental health risk score based on age.
-
-	Tracking Teen’s social interaction levels.
-
-	Tracking Teen’s depression levels.
+-Tracking socials media platforms which were frequently used.
+-Tracking total daily number of hours spent in social media platforms.
+-Tracking academic performance based on hours spent on social media platforms.
+-Counting addiction levels based on teen’s age.
+-Counting mental health risk score based on age.
+-Tracking Teen’s social interaction levels.
+-Tracking Teen’s depression levels.
 
 📊**Datasets**
 Source; Kaggle
 
 📈**Key Performance Indicators**
 
-	Social Media usage based on gender.
-
-	Addiction levels across recorded ages.
-
-	Academic performance based on hours spent on social medias.
-
-	Teen’s addiction levels across various ages.
-
-	Mental health score counts across various age.
-	Depression levels count across various ages.
+-Social Media usage based on gender.
+-Addiction levels across recorded ages.
+-Academic performance based on hours spent on social medias.
+-Teen’s addiction levels across various ages.
+-	Mental health score counts across various age.
+-Depression levels count across various ages.
 
 🌟**Insights**
 *Daily total time spent on social media platform was an area of concern in analysis. From the social media usage Key Performance Indicator KPI ,202 Male teenagers spent a total of 907.3 Hours daily that a vicinity of 4.5 hours per head count browsing across all social platforms.189 female teenagers spent  859.4 hours i. e  4.5hours per head count browsing   all social media platform. This insight can be applicable when tracking teen’s time spending thus provide essential guidelines on how they can manage their time effectively.
