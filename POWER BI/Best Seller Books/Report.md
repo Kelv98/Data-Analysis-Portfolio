@@ -11,6 +11,8 @@ The dataset was entirely analyzed through Microsoft excel. It was cleaned using 
 The printing length was categorized into small, medium, medium large, large and extra-large book volumes. Out of the analysis, it is evident that age bracket contributed in sizes of the book volume. The age bracket Between baby and 3 years opted for small book volume while extra-large book volume was majorly selected by those who were above 18 years.
 
 
+<img width="770" height="412" alt="image" src="https://github.com/user-attachments/assets/81c81bed-0c9c-4cab-a38b-44dfa9785735" />
+
 
 
 
