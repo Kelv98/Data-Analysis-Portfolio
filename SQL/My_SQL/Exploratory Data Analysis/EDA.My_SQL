@@ -1,5 +1,7 @@
+-- Navigating the table
 SELECT * 
 FROM worlds_layoffs.layoffs_staging2;
+-- Maximum number and percetage that was laid off
 SELECT max(total_laid_off),max(percentage_laid_off)
 FROM worlds_layoffs.layoffs_staging2;
 SELECT count(total_laid_off) 
@@ -13,16 +15,19 @@ SELECT COMPANY,sum(Total_laid_off)
 FROM worlds_layoffs.layoffs_staging2
 GROUP BY COMPANY
 ORDER BY 2 DESC;
+-- Oldest and Most recent date
 SELECT MAX(date),MIN(date)
 FROM worlds_layoffs.layoffs_staging2;
 SELECT industry,sum(Total_laid_off)
 FROM worlds_layoffs.layoffs_staging2
 GROUP BY industry
 ORDER BY 2 DESC;
+-- Country and total number that was laid off
 SELECT COUNTRY,sum(Total_laid_off)
 FROM worlds_layoffs.layoffs_staging2
 GROUP BY country
 ORDER BY 2 DESC;
+-- Year and total number that was laid off
 SELECT YEAR(date),sum(Total_laid_off) AS 'TOTAL'
 FROM date
 GROUP BY YEAR(date)
