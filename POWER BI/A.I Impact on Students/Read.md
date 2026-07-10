@@ -1,4 +1,4 @@
-☎** HR ATTRITION DASHBOARD**
+☎**HR ATTRITION DASHBOARD**
 
 This Project focuses in analyzing the impact of Artificial Intelligence(A.I) impact on learning students. During the modern times ,Artificial Intelligence (A.I) has been prevalent in many aspects of life including the education sector.The main agenda of this project was to unveil how AI was  affecting the  overall performance of  students and formulating reasonable  recommendations that would be applicable for better use of A.I
 
