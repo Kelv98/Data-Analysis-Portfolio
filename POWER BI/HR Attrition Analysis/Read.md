@@ -1,6 +1,6 @@
 ☎**HR ATTRITION DASHBOARD**\
 
-This project focuses on analyzing employee data in motive of identifying causes that resulted to attrition(Voluntary turnover).Through understanding  the reason and how the employees quit their roles ,organizations can succinctly implement  job retention strategies thus reducing  recruitment costs and making an ambience workplace.
+This project focuses on analyzing employee data in motive of identifying causes that resulted to attrition(Voluntary turnover).Through understanding  the reason and how the employees quit their roles ,organizations can succinctly implement  job retention strategies thus reducing  recruitment costs by making an ambience workplace.
 
 🎯**Key Features**
 
@@ -19,14 +19,14 @@ This project focuses on analyzing employee data in motive of identifying causes 
 🛠**Methodology** 
 
 The dataset was sourced from Kaggle.
-It was then loaded into SQL where all rows missing values  that had missing values were removed together with duplicates.
-It was later exported  to Power BI where it was transformed to ensure the datatypes were consistent
+It was then loaded into SQL where all rows  that had missing values were removed.Duplicates were also removed from the dataset.
+It was later exported  to Power BI where it was transformed to ensure the datatypes had  consistent format
 To ensure  that the analysis was accurate.
-Measures were added and used to create visuals that would speak the results.
+Measures were added and used to create visuals that would narrate the results.
 
 🌟**Insights**
 
-. **Targeted Retention**: The average attrition was 16.08%.This allows HR to intervene with high-value, high-risk talent through proactive compensation reviews or career pathing.
+. **Targeted Retention**: The average attrition was 16.08%.This allows HR department to intervene with high-value, the high-risk talent through proactive compensation reviews or career pathing.
 
 . **Cost Savings**: Lowering the attrition rate by even 2% saves the organization substantial capital in hiring, onboarding, and lost productivity.
 Production and Service delivery.Motivating employees through incentives and conducting trainings would greatly aid in improving their production and thus enhancing excellent service delivery.This would make employees feel valued and thus be more dedicated in staying and work for the organization.
