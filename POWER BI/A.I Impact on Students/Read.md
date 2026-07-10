@@ -3,18 +3,12 @@
 This Project focuses in analyzing the impact of Artificial Intelligence(A.I) impact on learning students. During the modern times ,Artificial Intelligence (A.I) has been prevalent in many aspects of life including the education sector.The main agenda of this project was to unveil how AI was  affecting the  overall performance of  students and formulating reasonable  recommendations that would be applicable for better use of A.I
 
 🎯**Key Features**
-
-. Disciplines students learnt and their population.
-
-. Average A.I dependency.
-
-.	Average retention score.
-
-.	Average weekly hours spent on A.I 
-
-.	Total tool diversity by primary use case.
-
-.	Post semester GPA results and burnout risk level.
+•	Count of attrition by Job role
+•	Average monthly salary
+•	Count of attrition by job satisfaction
+•	Count of attrition by age group
+•	Count of attrition by education field
+•	Count of job role population based on job satisfaction.
 
 🛠**Methodology**
 
