@@ -1,4 +1,4 @@
-☎**HR ATTRITION DASHBOARD**\
+☎**HR ATTRITION DASHBOARD**
 
 This project focuses on analyzing employee data in motive of identifying causes that resulted to attrition(Voluntary turnover).Through understanding  the reason and how the employees quit their roles ,organizations can succinctly implement  job retention strategies thus reducing  recruitment costs by making an ambience workplace.
 
