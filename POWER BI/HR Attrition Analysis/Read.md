@@ -4,17 +4,18 @@ This project focuses on analyzing employee data in motive of identifying causes 
 
 🎯**Key Features**
 
-. Count of attrition by Job role.
+•	Count of attrition by Job role
 
-. Average monthly salary.
+•	Average monthly salary
 
-. Count of attrition by job satisfaction
+•	Count of attrition by job satisfaction
 
-.	 Count of attrition by age group
+•	Count of attrition by age group
 
-. Count of attrition by education field
+•	Count of attrition by education field
 
-. Count of job role population based on job satisfaction.
+•	Count of job role population based on job satisfaction.
+
 
 🛠**Methodology** 
 
