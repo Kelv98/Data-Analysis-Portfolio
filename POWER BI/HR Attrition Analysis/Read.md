@@ -25,6 +25,7 @@ To ensure  that the analysis was accurate.
 Measures were added and used to create visuals that would speak the results.
 
 🌟**Insights**
+
 . **Targeted Retention**: The average attrition was 16.08%.This allows HR to intervene with high-value, high-risk talent through proactive compensation reviews or career pathing.
 
 . **Cost Savings**: Lowering the attrition rate by even 2% saves the organization substantial capital in hiring, onboarding, and lost productivity.
