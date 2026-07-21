@@ -20,10 +20,10 @@ This project focuses on analyzing employee data in motive of identifying causes 
 🛠**Methodology** 
 
 The dataset was sourced from Kaggle.
-It was then loaded into SQL where all rows  that had missing values were removed.Duplicates were also removed from the dataset.
-It was later exported  to Power BI where it was transformed to ensure the datatypes had  consistent format
-To ensure  that the analysis was accurate.
-Measures were added and used to create visuals that would narrate the results.
+It was then loaded into SQL where all rows  that had missing values  and duplicates were removed.
+It was later exported  to Power BI where it was transformed to ensure the datatypes had  consistent formats
+to ensure  that the analysis was accurate.
+Measures were added and used to create visuals that would narrate the results in a clear and persuasive manner.
 
 🌟**Insights**
 
