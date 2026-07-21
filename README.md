@@ -7,7 +7,7 @@ I am a  **data analyst**  with BSc in Applied Statistics with Computing and   ov
 
 •	**Data Visualization**: Tableau, Power BI, Looker Studio, Matplotlib/Seaborn
 
-•**	Databases & Cloud**: Snowflake, Google Big-Query, AWS (S3/Redshift)
+•**Databases & Cloud**: Snowflake, Google Big-Query, AWS (S3/Redshift)
 
 •	**Tools & Methodologies**: Excel (Advanced), Git, E.T.L Pipelines, A/B Testing, Statistical Analysis.
 
